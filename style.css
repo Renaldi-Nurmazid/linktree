@@ -1,0 +1,30 @@
+body
+{
+font-family: 'Oswald', sans-serif;
+}
+.container
+{
+    background-image: linear-gradient(#000046, #1cb5e0); 
+    margin: auto;
+    height: 100vh;
+    
+}
+.header 
+{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  color: white;
+
+}
+.header >img
+{
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin:auto;
+}
